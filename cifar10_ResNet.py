@@ -7,7 +7,7 @@ import os
 
 # network hyperparameters
 batch_size = 200 
-epochs = 20
+epochs = 50
 num_classes = 10
 resnet_blocks = 10
 
